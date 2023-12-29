@@ -1,0 +1,21 @@
+.nav_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.8rem 1rem;
+  margin: 0.4rem 0;
+  border-radius: 6px;
+}
+.nav_heading{
+    /* font-size: 1500; */
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.sync_btn {
+  cursor: pointer;
+  text-decoration: none;
+  color: #e19a4c;
+  background-color: #0A1018;
+  padding: 5px 10px;
+}
